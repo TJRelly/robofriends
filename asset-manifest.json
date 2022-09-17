@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.02ef4db4.css",
+    "main.js": "/react-gh-pages/static/js/main.3ca394cb.js",
+    "static/js/787.32032a02.chunk.js": "/react-gh-pages/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/react-gh-pages/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-gh-pages/index.html",
+    "main.02ef4db4.css.map": "/react-gh-pages/static/css/main.02ef4db4.css.map",
+    "main.3ca394cb.js.map": "/react-gh-pages/static/js/main.3ca394cb.js.map",
+    "787.32032a02.chunk.js.map": "/react-gh-pages/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ef4db4.css",
+    "static/js/main.3ca394cb.js"
+  ]
+}
