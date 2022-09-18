@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Turret Road
+- Font Author: Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)
+- Font Source: http://fonts.gstatic.com/s/turretroad/v7/pxidypMgpcBFjE84Zv-fE0P5FdeLYk1Mq3ap.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
