@@ -1,8 +1,8 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
+  "homepage": "https://TJRelly.github.io/robofriends",
   "private": true,
-  "homepage": "https://gitname.github.io/react-gh-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -38,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
